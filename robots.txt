@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wotoi.github.io/Kgf/sitemap.Kgf.gz
